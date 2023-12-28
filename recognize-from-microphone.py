@@ -3,7 +3,6 @@ import argparse
 import sys
 from argparse import RawTextHelpFormatter
 from itertools import zip_longest as izip_longest
-
 import numpy as np
 from termcolor import colored
 import libs.fingerprint as fingerprint

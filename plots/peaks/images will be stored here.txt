@@ -1,1 +1,1 @@
-Run collect fingerprint script to get plots in this directory
+Run collect fingerprint script to get plots in this directory.

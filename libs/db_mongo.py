@@ -3,7 +3,6 @@ from pymongo import MongoClient
 from .config import get_config
 from .db import Database
 
-
 class MongoDatabase(Database):
     def __init__(self):
         self.client = None

@@ -11,7 +11,6 @@ from operator import itemgetter
 
 IDX_FREQ_I = 0
 IDX_TIME_J = 1
-
 # Sampling rate, related to the Nyquist conditions, which affects
 # the range frequencies we can detect.
 DEFAULT_FS = 44100

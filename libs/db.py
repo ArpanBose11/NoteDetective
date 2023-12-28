@@ -2,6 +2,7 @@ class Database(object):
     TABLE_SONGS = None
     TABLE_FINGERPRINTS = None
 
+
     def connect(self):
         pass
 

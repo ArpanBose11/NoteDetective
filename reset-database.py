@@ -6,7 +6,6 @@ if __name__ == '__main__':
     db = SqliteDatabase()
 
     # songs table
-
     db.query("DROP TABLE IF EXISTS songs;")
     print('removed db.songs')
 

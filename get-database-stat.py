@@ -69,7 +69,6 @@ def print_duplicates():
         )
         print(msg % row)
 
-
 # find colissions
 def print_collisions():
     rows = db.executeAll("""

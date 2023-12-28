@@ -4,7 +4,6 @@ import os.path
 CONFIG_DEFAULT_FILE = 'config.json'
 CONFIG_DEVELOPMENT_FILE = 'config-development.json'
 
-
 # load config from multiple files,
 # and return merged result
 def get_config():

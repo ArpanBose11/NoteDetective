@@ -5,7 +5,6 @@ import numpy as np
 from pydub import AudioSegment
 from pydub.utils import audioop
 
-
 class FileReader:
     """
         Reads any file supported by pydub (ffmpeg) and returns the data contained

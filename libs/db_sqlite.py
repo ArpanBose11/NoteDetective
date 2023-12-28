@@ -4,7 +4,6 @@ import sqlite3
 from itertools import zip_longest as izip_longest
 from termcolor import colored
 
-
 class SqliteDatabase(Database):
     TABLE_SONGS = 'songs'
     TABLE_FINGERPRINTS = 'fingerprints'

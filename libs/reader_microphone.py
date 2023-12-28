@@ -5,7 +5,6 @@ import pyaudio
 
 from .reader import BaseReader
 
-
 class MicrophoneReader(BaseReader):
     default_chunksize = 8192
     default_format = pyaudio.paInt16
