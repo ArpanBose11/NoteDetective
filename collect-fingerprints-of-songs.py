@@ -2,7 +2,6 @@
 import os
 
 from termcolor import colored
-
 import libs.fingerprint as fingerprint
 from libs.config import get_config
 from libs.db_sqlite import SqliteDatabase
