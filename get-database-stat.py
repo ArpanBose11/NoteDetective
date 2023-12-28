@@ -2,8 +2,6 @@
 from termcolor import colored
 
 from libs.db_sqlite import SqliteDatabase
-
-
 # get summary information
 def print_summary():
     row = db.executeOne("""
