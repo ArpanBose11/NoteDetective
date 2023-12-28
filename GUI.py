@@ -14,9 +14,6 @@ except:
     pass
 
 
-
-
-
 root = tk.Tk()
 root.title("Omega")
 root.geometry("1200x800")
