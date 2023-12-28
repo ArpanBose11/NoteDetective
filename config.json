@@ -1,4 +1,5 @@
 {
+  
   "env": "default",
 
   "db.dsn": null,
@@ -10,4 +11,5 @@
   "mic.visualise_plot": false,
 
   "fingerprint.show_plots": false
+  
 }
