@@ -6,7 +6,6 @@ from itertools import zip_longest as izip_longest
 
 import numpy as np
 from termcolor import colored
-
 import libs.fingerprint as fingerprint
 from libs.config import get_config
 from libs.db_sqlite import SqliteDatabase
