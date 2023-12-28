@@ -5,7 +5,6 @@ import os, shutil
 if __name__ == '__main__':
     db = SqliteDatabase()
 
-    #
     # songs table
 
     db.query("DROP TABLE IF EXISTS songs;")
@@ -24,7 +23,6 @@ if __name__ == '__main__':
   """)
     print('created db.songs')
 
-    #
     # fingerprints table
 
     db.query("DROP TABLE IF EXISTS fingerprints;")
