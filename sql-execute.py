@@ -32,8 +32,6 @@ def select_all_tasks(conn):
         print(row)
 
 
-
-
 def main():
     database = r"C:\Users\KIIT\Desktop\Audio Fingerprint  Identifying Python\db\fingerprints2.db"
 
